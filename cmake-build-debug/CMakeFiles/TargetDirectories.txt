@@ -1,0 +1,3 @@
+/Users/egorbataev/Documents/Project/God_game/cmake-build-debug/CMakeFiles/God_game.dir
+/Users/egorbataev/Documents/Project/God_game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/egorbataev/Documents/Project/God_game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
