@@ -2,5 +2,5 @@
 
 class Wolf {
 public:
-
+	int age;
 };
