@@ -1,6 +1,6 @@
 #pragma once
 
-class Wolf {
+class Sheep {
 protected:
-	
+
 };
